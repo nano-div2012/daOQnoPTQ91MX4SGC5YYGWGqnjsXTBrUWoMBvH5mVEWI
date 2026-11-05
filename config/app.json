@@ -1,6 +1,17 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "TestAja",
+  "packageName": "com.web2apk.testajaobr6",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "camera",
+    "video",
+    "audio",
+    "location",
+    "file_manager",
+    "bluetooth",
+    "vibrate",
+    "wifi_state",
+    "wake_lock"
+  ]
 }

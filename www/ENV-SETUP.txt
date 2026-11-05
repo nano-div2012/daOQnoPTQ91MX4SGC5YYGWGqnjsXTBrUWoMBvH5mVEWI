@@ -1,0 +1,5 @@
+NYR Musik Demo - Setup Environment Variable
+
+Tidak ada environment variable yang dibutuhkan.
+Versi demo adalah JavaScript biasa (tanpa Node.js dan tanpa backend), jadi tidak ada rahasia
+yang perlu diisi di Vercel. Lewati langkah ini.
